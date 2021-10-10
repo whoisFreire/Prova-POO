@@ -282,8 +282,6 @@ public class GerenciarFuncionario {
         }
     }
 
-    // Esta função não é necessaria, pois a relação do funcionario empresa é feito
-    // no cadastro do próprio funcionario
     private static void AdcFuncQuadro() {
         try {
             int idFunc;
